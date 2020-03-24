@@ -17,7 +17,7 @@ class Plotter extends Component {
       highlightedCountry: props.highlightedCountry,
       data: [],
       toggleValues: [1,2],
-      logPlot: true
+      logPlot: false
     };   
   }
 
