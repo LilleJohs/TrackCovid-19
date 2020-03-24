@@ -32,7 +32,7 @@ class MapChart extends Component {
   componentDidMount() {
     let baseURL;
     if (process.env.NODE_ENV === 'production') {
-      baseURL = 'https://usenano.org/summary';
+      baseURL = 'https://track-covid-19.herokuapp.com/summary';
     } else {
       baseURL = 'http://localhost:5000/summary';
     }

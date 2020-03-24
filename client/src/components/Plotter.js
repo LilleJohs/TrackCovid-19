@@ -30,7 +30,7 @@ class Plotter extends Component {
   fetchData(highlightedCountry) {
     let baseURL;
     if (process.env.NODE_ENV === 'production') {
-      baseURL = 'https://usenano.org/country?name=';
+      baseURL = 'https://track-covid-19.herokuapp.com/country?name=';
     } else {
       baseURL = 'http://localhost:5000/country?name=';
     }
