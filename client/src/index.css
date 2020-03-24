@@ -20,26 +20,37 @@ h2.capitalize {
   text-transform: capitalize;
 }
 
-.columnMap {
-  float: left;
-  width: 60%;
-}
-.columnPlot {
-  float: right;
-  width: 40%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 .plot {
   width: 100%
 }
 
 .navbar {
   text-align: center;
+}
+
+
+
+
+
+[class*="column"] {
+  /*Mobile first: set the width to 100% by default*/
+  width: 100%;
+}
+@media only screen and (min-width: 768px) {
+  /* For everything bigger than 768px */
+  .columnMap {
+    float: left;
+    width: 60%;
+  }
+  .columnPlot {
+    float: right;
+    width: 40%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 }
