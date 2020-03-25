@@ -19,7 +19,6 @@ app.set('trust proxy', true);
 
 app.use(cors());
 app.use(helmet());
-app.use(express.static(path.join(__dirname, 'public')));
 
 let allCountryYML = new Object();
 let summaryYML;
@@ -30,6 +29,8 @@ setInterval(updateYMLFiles, 60*60*1000);
 function updateYMLFiles() {
   newAllCountryYML = new Object();
 
+  
+  app.use(express.static(path.join(__dirname, 'public')));
   fs.readdirSync("public/").forEach(file => {
     if (file !== 'summary.yml') {
       const ymlFile = yaml.safeLoad(fs.readFileSync('public/'+file, 'utf8'));
