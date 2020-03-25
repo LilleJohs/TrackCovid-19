@@ -98,7 +98,7 @@ def scrapeAll():
         countrySummary = dict()
         countrySummary['country'] = countryName
         if len(data) >= 1:
-            with open('./public/'+countryName+'.yml', 'w') as outfile:
+            with open('public/'+countryName+'.yml', 'w') as outfile:
                 yaml.dump(data, outfile, default_flow_style=False)
 
             if 'infected' in data[0]: countrySummary['infected'] = data[0]['infected']
@@ -106,7 +106,7 @@ def scrapeAll():
             
         countrySummaryList.append(countrySummary)
 
-    with open('./public/summary.yml', 'w') as outfile:
+    with open('public/summary.yml', 'w') as outfile:
         yaml.dump(countrySummaryList, outfile, default_flow_style=False)
 
 if __name__ == "__main__":
