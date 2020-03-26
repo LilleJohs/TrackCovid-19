@@ -1,0 +1,10 @@
+- date: '2020-03-25'
+  deaths: '0'
+  deaths_increase_percentage: '0'
+  infected: '5'
+  infected_increase_percentage: '400'
+- date: '2020-03-22'
+  deaths: '0'
+  deaths_increase_percentage: '0'
+  infected: '1'
+  infected_increase_percentage: 1)

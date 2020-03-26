@@ -13,7 +13,7 @@ changeNameList = {
     'georgia (country)': 'georgia'
 }
 # Remove these countries because their data is unreliable
-removeNameList = ['mexico']
+removeNameList = []
 
 base_url = 'https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_'
 country_list_url = 'https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic'
@@ -98,7 +98,7 @@ def scrapeAll():
         countrySummary = dict()
         countrySummary['country'] = countryName
         if len(data) >= 1:
-            with open('public/'+countryName+'.yml', 'w') as outfile:
+            with open('./public/'+countryName+'.yml', 'w') as outfile:
                 yaml.dump(data, outfile, default_flow_style=False)
 
             if 'infected' in data[0]: countrySummary['infected'] = data[0]['infected']
@@ -106,7 +106,7 @@ def scrapeAll():
             
         countrySummaryList.append(countrySummary)
 
-    with open('public/summary.yml', 'w') as outfile:
+    with open('./public/summary.yml', 'w') as outfile:
         yaml.dump(countrySummaryList, outfile, default_flow_style=False)
 
 if __name__ == "__main__":

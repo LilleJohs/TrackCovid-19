@@ -1,0 +1,378 @@
+- country: italy
+  deaths: '7503'
+  infected: '74386'
+- country: united states of america
+  deaths: '929'
+  infected: '64661'
+- country: spain
+  deaths: '4089'
+  infected: '56188'
+- country: germany
+  deaths: '198'
+  infected: '36508'
+- country: iran
+  deaths: '2234'
+  infected: '29406'
+- country: france
+  deaths: '1331'
+  infected: '25233'
+- country: switzerland
+  infected: '9765'
+- country: united kingdom
+  deaths: '465'
+  infected: '9529'
+- country: south korea
+  deaths: '131'
+  infected: '9241'
+- country: netherlands
+  deaths: '434'
+  infected: '7431'
+- country: belgium
+  deaths: '220'
+  infected: '6235'
+- country: austria
+  deaths: '42'
+  infected: '6001'
+- country: portugal
+  infected: '3544'
+- country: canada
+  infected: '3385'
+- country: norway
+  infected: '3156'
+- country: australia
+  infected: '2805'
+- country: brazil
+  deaths: '59'
+  infected: '2517'
+- country: sweden
+  infected: '2735'
+- country: israel
+  infected: '2666'
+- country: turkey
+  deaths: '59'
+  infected: '2433'
+- country: malaysia
+  deaths: ''
+  infected: '2031'
+- country: denmark
+  deaths: '34'
+  infected: '2014'
+- country: czechia
+  deaths: '6'
+  infected: '1763'
+- country: ireland
+  deaths: '9'
+  infected: '1564'
+- country: luxembourg
+  infected: '1333'
+- country: japan
+  infected: '1291'
+- country: ecuador
+  deaths: '29'
+  infected: '1211'
+- country: chile
+  infected: '1306'
+- country: pakistan
+  deaths: '8'
+  infected: '1057'
+- country: poland
+  deaths: '14'
+  infected: '11207'
+- country: thailand
+  deaths: ''
+  infected: '1045'
+- country: romania
+  deaths: ''
+  infected: '1029'
+- country: saudi arabia
+  deaths: '0'
+  infected: '900'
+- country: indonesia
+  deaths: '78'
+  infected: '893'
+- country: finland
+  deaths: '5'
+  infected: '958'
+- country: russia
+  infected: '840'
+- country: greece
+  infected: '835'
+- country: iceland
+  infected: '802'
+- country: south africa
+  infected: '709'
+- country: philippines
+  deaths: '11'
+  infected: '707'
+- country: india
+  deaths: ''
+  infected: '649'
+- country: singapore
+  deaths: '2'
+  infected: '683'
+- country: panama
+  deaths: '6'
+  infected: '443'
+- country: estonia
+  infected: '538'
+- country: qatar
+- country: slovenia
+  infected: '526'
+- country: argentina
+  deaths: '6'
+  infected: '387'
+- country: croatia
+  deaths: '0'
+  infected: '481'
+- country: peru
+  infected: '480'
+- country: mexico
+  deaths: '6'
+  infected: '475'
+- country: colombia
+  infected: '470'
+- country: bahrain
+- country: egypt
+  deaths: ''
+  infected: '456'
+- country: hong kong
+  infected: '453'
+- country: dominican republic
+  deaths: '10'
+  infected: '392'
+- country: serbia
+  infected: '384'
+- country: iraq
+  deaths: '29'
+  infected: '346'
+- country: lebanon
+- country: united arab emirates
+- country: algeria
+  deaths: '21'
+  infected: '302'
+- country: armenia
+  deaths: ''
+  infected: '290'
+- country: lithuania
+  infected: '290'
+- country: new zealand
+  infected: '283'
+- country: hungary
+  deaths: '10'
+  infected: '261'
+- country: taiwan
+- country: latvia
+  infected: '24410'
+- country: bulgaria
+  deaths: '0'
+  infected: '243'
+- country: morocco
+  deaths: '6'
+  infected: '225'
+- country: uruguay
+  infected: '217'
+- country: slovakia
+  infected: '226'
+- country: kuwait
+- country: san marino
+  deaths: '21'
+  infected: '208'
+- country: costa rica
+- country: macedonia
+  deaths: ''
+  infected: '201'
+- country: andorra
+- country: bosnia and herz.
+  deaths: '0'
+  infected: '168'
+- country: albania
+  infected: '146'
+- country: tunisia
+  deaths: '5'
+  infected: '173'
+- country: jordan
+- country: ukraine
+  infected: '156'
+- country: moldova
+  infected: '149'
+- country: vietnam
+  deaths: ''
+  infected: '153'
+- country: burkina faso
+  deaths: '5'
+  infected: '146'
+- country: cyprus
+  infected: '132'
+- country: ghana
+  deaths: ''
+  infected: '24'
+- country: malta
+- country: brunei
+  infected: '114'
+- country: venezuela
+  infected: '106'
+- country: senegal
+  deaths: ''
+  infected: '99'
+- country: sri lanka
+  deaths: '0'
+  infected: '102'
+- country: oman
+  deaths: '0'
+  infected: '109'
+- country: kazakhstan
+  deaths: '0'
+  infected: '109'
+- country: cambodia
+- country: azerbaijan
+  infected: '122'
+- country: belarus
+  infected: '86'
+- country: afghanistan
+  deaths: '2'
+  infected: '84'
+- country: state of palestine
+  deaths: '1'
+  infected: '86'
+- country: ivory coast
+  deaths: ''
+  infected: '80'
+- country: georgia
+  infected: '79'
+- country: cameroon
+  deaths: ''
+  infected: '66'
+- country: kosovo
+  infected: '71'
+- country: montenegro
+  deaths: '1'
+  infected: '6726'
+- country: uzbekistan
+- country: trinidad and tobago
+- country: cuba
+- country: liechtenstein
+- country: honduras
+  infected: '52'
+- country: mauritius
+  infected: '52'
+- country: democratic republic of congo
+- country: nigeria
+  deaths: ''
+  infected: '51'
+- country: bangladesh
+  deaths: '4'
+  infected: '39'
+- country: kyrgyzstan
+  deaths: '0'
+  infected: '42'
+- country: paraguay
+- country: rwanda
+- country: bolivia
+- country: macau
+- country: monaco
+- country: kenya
+  deaths: '0'
+  infected: '28'
+- country: jamaica
+- country: guatemala
+- country: togo
+  deaths: ''
+  infected: '16'
+- country: madagascar
+- country: barbados
+- country: uganda
+- country: el salvador
+- country: maldives
+- country: tanzania
+- country: ethiopia
+  deaths: ''
+  infected: '12'
+- country: zambia
+- country: djibouti
+- country: dominica
+- country: mongolia
+- country: equatorial guinea
+- country: haiti
+- country: suriname
+- country: benin
+- country: gabon
+- country: namibia
+- country: niger
+- country: seychelles
+- country: laos
+- country: bahamas
+- country: fiji
+  infected: '5'
+- country: guyana
+- country: mozambique
+- country: syria
+  deaths: '0'
+  infected: '5'
+- country: cape verde
+- country: republic of congo
+- country: eritrea
+- country: eswatini
+- country: guinea
+- country: vatican city
+  deaths: '0'
+  infected: '4'
+- country: angola
+- country: antigua and barbuda
+- country: central african republic
+- country: chad
+- country: gambia
+- country: liberia
+- country: mauritania
+- country: myanmar
+- country: nepal
+- country: saint lucia
+- country: sudan
+- country: zimbabwe
+- country: bhutan
+- country: guinea-bissau
+- country: mali
+- country: nicaragua
+- country: saint kitts and nevis
+- country: somalia
+- country: belize
+- country: east timor
+- country: grenada
+- country: libya
+- country: papua new guinea
+- country: saint vincent and grenadines
+- country: guam
+- country: puerto rico
+- country: united states virgin islands
+- country: french guiana
+- country: guadeloupe
+- country: martinique
+- country: mayotte
+- country: r%c3%a9union
+- country: french polynesia
+  infected: '25'
+- country: new caledonia
+  infected: '14'
+- country: saint barth%c3%a9lemy
+- country: collectivity of saint martin
+- country: akrotiri and dhekelia
+- country: bermuda
+- country: british virgin islands
+- country: cayman islands
+- country: gibraltar
+- country: montserrat
+- country: turks and caicos islands
+- country: guernsey
+  infected: '30'
+- country: jersey
+  infected: '16'
+- country: isle of man
+- country: aruba
+- country: cura%c3%a7ao
+- country: sint maarten
+- country: faroe islands
+- country: greenland
+- country: '%c3%85land islands'
+- country: kosovo
+  infected: '71'
+- country: transnistria
+- country: northern cyprus
