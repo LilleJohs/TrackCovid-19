@@ -9,10 +9,14 @@ import Navbar from 'react-bootstrap/Navbar';
 export default class App extends Component {
   constructor(props) {
     super(props);
-  
+
     this.state = {
-      name: 'italy'
+      name: ''
     };
+  }
+
+  componentDidMount() {
+    document.title = 'Track COVID-19';
   }
 
   changeHighlightedCountry(country) {
@@ -27,7 +31,7 @@ export default class App extends Component {
       <div>
         <Navbar bg="dark" variant="dark">
           <Navbar.Brand className='navbar'>
-            Corona Tracker
+            Track COVID-19
           </Navbar.Brand>
         </Navbar>
         <div className="row">
