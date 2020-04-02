@@ -1,36 +1,71 @@
+- date: 2020-04-1
+  deaths: ''
+  deaths_increase_percentage: '6'
+  infected: '190'
+  infected_increase_percentage: 11)
+- date: '2020-03-31'
+  deaths: ''
+  deaths_increase_percentage: '7'
+  infected: '179'
+  infected_increase_percentage: 11)
+- date: '2020-03-30'
+  deaths: ''
+  deaths_increase_percentage: '2'
+  infected: '168'
+  infected_increase_percentage: 3)
+- date: '2020-03-29'
+  deaths: ''
+  deaths_increase_percentage: '18'
+  infected: '165'
+  infected_increase_percentage: 25)
+- date: '2020-03-28'
+  deaths: ''
+  deaths_increase_percentage: '39'
+  infected: '140'
+  infected_increase_percentage: 39)
+- date: '2020-03-27'
+  deaths: ''
+  deaths_increase_percentage: '5'
+  infected: '101'
+  infected_increase_percentage: 5)
+- date: '2020-03-26'
+  deaths: ''
+  deaths_increase_percentage: '20'
+  infected: '96'
+  infected_increase_percentage: 16)
 - date: '2020-03-25'
   deaths: ''
-  deaths_increase_percentage: '9'
+  deaths_increase_percentage: '10'
   infected: '80'
   infected_increase_percentage: 7)
 - date: '2020-03-24'
   deaths: ''
-  deaths_increase_percentage: '66'
+  deaths_increase_percentage: '192'
   infected: '73'
   infected_increase_percentage: 48)
 - date: '2020-03-22'
   deaths: ''
-  deaths_increase_percentage: '44'
+  deaths_increase_percentage: '79'
   infected: '25'
   infected_increase_percentage: 8)
 - date: '2020-03-20'
   deaths: ''
-  deaths_increase_percentage: '36'
+  deaths_increase_percentage: '56'
   infected: '14'
   infected_increase_percentage: 5)
 - date: '2020-03-18'
   deaths: ''
-  deaths_increase_percentage: '22'
+  deaths_increase_percentage: '50'
   infected: '9'
   infected_increase_percentage: 2)
 - date: '2020-03-16'
   deaths: ''
-  deaths_increase_percentage: '33'
+  deaths_increase_percentage: '50'
   infected: '6'
   infected_increase_percentage: 2)
 - date: '2020-03-14'
   deaths: ''
-  deaths_increase_percentage: '50'
+  deaths_increase_percentage: '100'
   infected: '4'
   infected_increase_percentage: 2)
 - date: '2020-03-12'

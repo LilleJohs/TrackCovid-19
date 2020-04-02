@@ -1,8 +1,43 @@
-- date: '2020-03-26'
+- date: '2020-04-02'
   deaths: ''
   deaths_increase_percentage: '7'
-  infected: '649'
-  infected_increase_percentage: 43)
+  infected: '1964'
+  infected_increase_percentage: 130)
+- date: '2020-04-01'
+  deaths: ''
+  deaths_increase_percentage: '31'
+  infected: '1834'
+  infected_increase_percentage: 437)
+- date: '2020-03-31'
+  deaths: ''
+  deaths_increase_percentage: '12'
+  infected: '1397'
+  infected_increase_percentage: 146)
+- date: '2020-03-30'
+  deaths: ''
+  deaths_increase_percentage: '22'
+  infected: '1251'
+  infected_increase_percentage: 227)
+- date: '2020-03-29'
+  deaths: ''
+  deaths_increase_percentage: '12'
+  infected: '1024'
+  infected_increase_percentage: 106)
+- date: '2020-03-28'
+  deaths: ''
+  deaths_increase_percentage: '11'
+  infected: '918'
+  infected_increase_percentage: 84)
+- date: '2020-03-27'
+  deaths: ''
+  deaths_increase_percentage: '20'
+  infected: '834'
+  infected_increase_percentage: 140)
+- date: '2020-03-26'
+  deaths: ''
+  deaths_increase_percentage: '15'
+  infected: '694'
+  infected_increase_percentage: 88)
 - date: '2020-03-25'
   deaths: ''
   deaths_increase_percentage: '17'
@@ -10,114 +45,119 @@
   infected_increase_percentage: 87)
 - date: '2020-03-24'
   deaths: ''
-  deaths_increase_percentage: '11'
+  deaths_increase_percentage: '20'
   infected: '519'
-  infected_increase_percentage: 51)
+  infected_increase_percentage: 85)
 - date: '2020-03-23'
   deaths: ''
-  deaths_increase_percentage: '20'
-  infected: '468'
-  infected_increase_percentage: 77)
+  deaths_increase_percentage: '21'
+  infected: '434'
+  infected_increase_percentage: 74)
 - date: '2020-03-22'
   deaths: ''
-  deaths_increase_percentage: '19'
-  infected: '391'
-  infected_increase_percentage: 62)
+  deaths_increase_percentage: '27'
+  infected: '360'
+  infected_increase_percentage: 77)
 - date: '2020-03-21'
   deaths: ''
-  deaths_increase_percentage: '32'
-  infected: '329'
-  infected_increase_percentage: 80)
+  deaths_increase_percentage: '27'
+  infected: '283'
+  infected_increase_percentage: 60)
 - date: '2020-03-20'
   deaths: ''
-  deaths_increase_percentage: '26'
-  infected: '249'
-  infected_increase_percentage: 51)
+  deaths_increase_percentage: '29'
+  infected: '223'
+  infected_increase_percentage: 50)
 - date: '2020-03-19'
   deaths: ''
-  deaths_increase_percentage: '16'
-  infected: '198'
-  infected_increase_percentage: 28)
+  deaths_increase_percentage: '15'
+  infected: '173'
+  infected_increase_percentage: 22)
 - date: '2020-03-18'
   deaths: ''
-  deaths_increase_percentage: '21'
-  infected: '170'
-  infected_increase_percentage: 30)
+  deaths_increase_percentage: '10'
+  infected: '151'
+  infected_increase_percentage: 14)
 - date: '2020-03-17'
   deaths: ''
-  deaths_increase_percentage: '23'
-  infected: '140'
-  infected_increase_percentage: 26)
+  deaths_increase_percentage: '16'
+  infected: '137'
+  infected_increase_percentage: 19)
 - date: '2020-03-16'
   deaths: ''
-  deaths_increase_percentage: '4'
-  infected: '114'
-  infected_increase_percentage: 4)
+  deaths_increase_percentage: '10'
+  infected: '118'
+  infected_increase_percentage: 11)
 - date: '2020-03-15'
   deaths: ''
   deaths_increase_percentage: '10'
-  infected: '110'
+  infected: '107'
   infected_increase_percentage: 10)
 - date: '2020-03-14'
   deaths: ''
-  deaths_increase_percentage: '17'
-  infected: '100'
-  infected_increase_percentage: 15)
+  deaths_increase_percentage: '20'
+  infected: '97'
+  infected_increase_percentage: 16)
 - date: '2020-03-13'
   deaths: ''
-  deaths_increase_percentage: '10'
-  infected: '85'
+  deaths_increase_percentage: '11'
+  infected: '81'
   infected_increase_percentage: 8)
 - date: '2020-03-12'
   deaths: ''
-  deaths_increase_percentage: '18'
-  infected: '77'
-  infected_increase_percentage: 12)
+  deaths_increase_percentage: '22'
+  infected: '73'
+  infected_increase_percentage: 13)
+- date: '2020-03-11'
+  deaths: ''
+  deaths_increase_percentage: '20'
+  infected: '60'
+  infected_increase_percentage: 10)
 - date: '2020-03-10'
   deaths: ''
-  deaths_increase_percentage: '30'
-  infected: '65'
-  infected_increase_percentage: 15)
+  deaths_increase_percentage: '14'
+  infected: '50'
+  infected_increase_percentage: 6)
 - date: '2020-03-09'
   deaths: ''
   deaths_increase_percentage: '16'
-  infected: '50'
-  infected_increase_percentage: 7)
+  infected: '44'
+  infected_increase_percentage: 5)
 - date: '2020-03-08'
   deaths: ''
-  deaths_increase_percentage: '16'
-  infected: '43'
-  infected_increase_percentage: 6)
+  deaths_increase_percentage: '15'
+  infected: '39'
+  infected_increase_percentage: 5)
 - date: '2020-03-07'
   deaths: ''
-  deaths_increase_percentage: '88'
-  infected: '37'
+  deaths_increase_percentage: '97'
+  infected: '34'
   infected_increase_percentage: 3)
 - date: '2020-03-06'
   deaths: ''
-  deaths_increase_percentage: '30'
-  infected: '34'
+  deaths_increase_percentage: '33'
+  infected: '31'
   infected_increase_percentage: 1)
 - date: '2020-03-05'
   deaths: ''
-  deaths_increase_percentage: '31'
-  infected: '33'
-  infected_increase_percentage: 1)
+  deaths_increase_percentage: '71'
+  infected: '30'
+  infected_increase_percentage: 2)
 - date: '2020-03-04'
   deaths: ''
-  deaths_increase_percentage: '256'
-  infected: '32'
-  infected_increase_percentage: 23)
+  deaths_increase_percentage: '367'
+  infected: '28'
+  infected_increase_percentage: 22)
 - date: '2020-03-03'
   deaths: ''
-  deaths_increase_percentage: '50'
-  infected: '9'
-  infected_increase_percentage: 3)
+  deaths_increase_percentage: '20'
+  infected: '6'
+  infected_increase_percentage: 1)
 - date: '2020-03-02'
   deaths: ''
-  deaths_increase_percentage: '100'
-  infected: '6'
-  infected_increase_percentage: 3)
+  deaths_increase_percentage: '67'
+  infected: '5'
+  infected_increase_percentage: 2)
 - date: '2020-02-03'
   deaths: ''
   deaths_increase_percentage: '50'

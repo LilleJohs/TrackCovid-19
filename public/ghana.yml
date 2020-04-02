@@ -1,3 +1,33 @@
+- date: '2020-04-01'
+  deaths: ''
+  deaths_increase_percentage: '28'
+  infected: '195'
+  infected_increase_percentage: 43)
+- date: '2020-03-29'
+  deaths: ''
+  deaths_increase_percentage: '8'
+  infected: '152'
+  infected_increase_percentage: 11)
+- date: '2020-03-28'
+  deaths: ''
+  deaths_increase_percentage: '3'
+  infected: '141'
+  infected_increase_percentage: 4)
+- date: '2020-03-27'
+  deaths: ''
+  deaths_increase_percentage: '4'
+  infected: '137'
+  infected_increase_percentage: 5)
+- date: '2020-03-26'
+  deaths: ''
+  deaths_increase_percentage: '82'
+  infected: '132'
+  infected_increase_percentage: 64)
+- date: '2020-03-25'
+  deaths: ''
+  deaths_increase_percentage: '183'
+  infected: '68'
+  infected_increase_percentage: 44)
 - date: '2020-03-22'
   deaths: ''
   deaths_increase_percentage: '19'
