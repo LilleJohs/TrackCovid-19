@@ -1,1 +1,1 @@
-web: python webscraper.py && nodemon index.js
+web: nodemon index.js
