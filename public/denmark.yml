@@ -1,3 +1,8 @@
+- date: 02-04-2020
+  deaths: '123'
+  deaths_increase_percentage: '18'
+  infected: '3573'
+  infected_increase_percentage: '8.6'
 - date: 01-04-2020
   deaths: '104'
   deaths_increase_percentage: '16'
@@ -10,7 +15,7 @@
   infected_increase_percentage: '10.3'
 - date: 30-03-2020
   deaths: '77'
-  deaths_increase_percentage: '7'
+  deaths_increase_percentage: '69'
   infected: '2755'
   infected_increase_percentage: '7.4'
 - date: 29-03-2020
@@ -35,7 +40,7 @@
   infected_increase_percentage: '8.7'
 - date: 25-03-2020
   deaths: '34'
-  deaths_increase_percentage: '6'
+  deaths_increase_percentage: '63'
   infected: '1861'
   infected_increase_percentage: '8.4'
 - date: 24-03-2020

@@ -1,3 +1,13 @@
+- date: '2020-04-03'
+  deaths: ''
+  deaths_increase_percentage: '3'
+  infected: '233'
+  infected_increase_percentage: 6)
+- date: '2020-04-02'
+  deaths: ''
+  deaths_increase_percentage: '4'
+  infected: '227'
+  infected_increase_percentage: 9)
 - date: '2020-04-01'
   deaths: ''
   deaths_increase_percentage: '5'

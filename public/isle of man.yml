@@ -1,3 +1,6 @@
+- date: '2020-04-02'
+  infected: '95'
+  infected_increase_percentage: '40'
 - date: '2020-04-01'
   infected: '68'
   infected_increase_percentage: '13'
