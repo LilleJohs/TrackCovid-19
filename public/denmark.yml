@@ -1,3 +1,28 @@
+- date: 07-04-2020
+  deaths: '203'
+  deaths_increase_percentage: '85'
+  infected: '5173'
+  infected_increase_percentage: '6.1'
+- date: 06-04-2020
+  deaths: '187'
+  deaths_increase_percentage: '45'
+  infected: '4875'
+  infected_increase_percentage: '6.9'
+- date: 05-04-2020
+  deaths: '179'
+  deaths_increase_percentage: '11'
+  infected: '4561'
+  infected_increase_percentage: '6.9'
+- date: 04-04-2020
+  deaths: '161'
+  deaths_increase_percentage: '16'
+  infected: '4268'
+  infected_increase_percentage: '8.1'
+- date: 03-04-2020
+  deaths: '139'
+  deaths_increase_percentage: '13'
+  infected: '3946'
+  infected_increase_percentage: '10'
 - date: 02-04-2020
   deaths: '123'
   deaths_increase_percentage: '18'
@@ -12,7 +37,7 @@
   deaths: '90'
   deaths_increase_percentage: '17'
   infected: '3039'
-  infected_increase_percentage: '10.3'
+  infected_increase_percentage: '10'
 - date: 30-03-2020
   deaths: '77'
   deaths_increase_percentage: '69'
