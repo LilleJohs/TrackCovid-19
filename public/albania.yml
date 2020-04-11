@@ -1,6 +1,12 @@
+- date: '2020-04-09'
+  infected: '409'
+  infected_increase_percentage: '2'
+- date: '2020-04-08'
+  infected: '400'
+  infected_increase_percentage: '4'
 - date: '2020-04-07'
   infected: '383'
-  infected_increase_percentage: 1,6
+  infected_increase_percentage: '2'
 - date: '2020-04-06'
   infected: '377'
   infected_increase_percentage: '4'
