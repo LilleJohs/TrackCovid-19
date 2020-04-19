@@ -1,3 +1,27 @@
+- date: '2020-04-18'
+  infected: '1373'
+  infected_increase_percentage: 2,5
+- date: '2020-04-17'
+  infected: '1340'
+  infected_increase_percentage: 4,4
+- date: '2020-04-16'
+  infected: '1283'
+  infected_increase_percentage: 2,4
+- date: '2020-04-15'
+  infected: '1253'
+  infected_increase_percentage: 4,7
+- date: '2020-04-14'
+  infected: '1197'
+  infected_increase_percentage: 4,3
+- date: '2020-04-13'
+  infected: '1148'
+  infected_increase_percentage: 4,5
+- date: '2020-04-12'
+  infected: '1098'
+  infected_increase_percentage: 3,8
+- date: '2020-04-11'
+  infected: '1058'
+  infected_increase_percentage: '7'
 - date: '2020-04-10'
   infected: '991'
   infected_increase_percentage: '7'
